@@ -13,8 +13,6 @@
         <java.version>11</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
-
-        <parentversio>1.1-SNAPSHOT</parentversio>
     </properties>
 
     <dependencyManagement>
